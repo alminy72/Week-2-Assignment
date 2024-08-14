@@ -1,0 +1,37 @@
+body {
+    background-color: purple;
+}
+
+h1 {
+    color: gold;
+}
+
+h2 {
+    color: gold;
+}
+
+h3 {
+    color: gold;
+}
+
+div {
+    background-color: cadetblue;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+}
+
+.dog {
+    width: 300px;
+    height: 200px;
+}
+
+table {
+    color: gold;
+    border-style: solid;
+    border-radius: 5px;
+}
+
+.color {
+    color: gold;
+}
